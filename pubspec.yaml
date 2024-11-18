@@ -5,8 +5,8 @@ homepage: https://github.com/crazecoder/flutter_bugly
 # author: crazecoder <21527312@qq.com>
 
 environment:
-  sdk: '>=2.1.19 <4.0.0'
-  flutter: ">=1.10.0"
+  sdk: '^2.19.6'
+  flutter: ">=3.3.0"
 
 dependencies:
   flutter:
